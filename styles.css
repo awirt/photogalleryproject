@@ -18,6 +18,15 @@ header {
   top: 0;
 }
 
+footer {
+  border: 3px solid orange;
+  background-color: white;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}
+
 p {
   text-align: center;
   overflow-wrap: break-word;
