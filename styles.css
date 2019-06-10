@@ -51,6 +51,12 @@ main {
   background-color: white;
 }
 
+.main-background {
+  padding-left: 0.3%;
+  padding-right: 0.3%;
+  background-image: linear-gradient(white 20%, cyan, limegreen);
+}
+
 article {
   width: 500px;
   margin: 1%;
