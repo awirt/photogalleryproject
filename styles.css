@@ -97,13 +97,13 @@ img {
   }
   
   article {
-    width: 300px;
+    width: 290px;
   }
   
   img {
     position: center;
-    width: 300px;
-    height: 300px;
+    width: 290px;
+    height: 290px;
     object-fit: cover;
   }
   
@@ -132,13 +132,13 @@ img {
   }
   
   article {
-    width: 200px;
+    width: 190px;
   }
   
   img {
     position: center;
-    width: 200px;
-    height: 200px;
+    width: 190px;
+    height: 190px;
     object-fit: cover;
   }
   
